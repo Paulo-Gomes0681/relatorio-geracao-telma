@@ -18,7 +18,7 @@ Este projeto foi desenvolvido para criar relatórios técnicos profissionais que
 ## 📸 Screenshots
 
 ### Dashboard Principal
-https://github.com/Paulo-Gomes0681/relatorio-geracao-telma
+https://paulo-gomes0681.github.io/relatorio-geracao-telma/
 
 ### Gráficos de Performance
 - **Geração Anual**: Comparativo por períodos
